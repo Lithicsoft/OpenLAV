@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AntiVirusScanner/1.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/AntiVirusScanner.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntiVirusScanner/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cid4UqpZDz/R9oHi3NC/aEXaSWRvJ+Wzp7H8N9HHkg+iWUfe+9kbTl4DbWptoqD81YgcT9uIPKFBUFkyyp0dRQ==",
+      "path": "antivirusscanner/1.0.2",
+      "hashPath": "antivirusscanner.1.0.2.nupkg.sha512"
+    }
+  }
+}
